@@ -10,3 +10,4 @@ Their is one pointer i.e **Highscore** which is set to 20 initially and each tim
 
 User can also submit answer by pressing **Enter** key in the keyboard . 
 
+Their is one increment and decrement button , and with the help of these buttons user is able to increment and decrement the value . 
